@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import com.dao.EmpleadoDAO;
-import com.model.DatosNoCorrectosException;
+import com.exceptions.DatosNoCorrectosException;
 import com.model.Empleado;
 
 @WebServlet("/empresa")

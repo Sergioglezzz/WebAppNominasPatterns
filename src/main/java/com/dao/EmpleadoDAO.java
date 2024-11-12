@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.conexion.Conexion;
-import com.model.DatosNoCorrectosException;
+import com.exceptions.DatosNoCorrectosException;
 import com.model.Empleado;
 
 public class EmpleadoDAO {

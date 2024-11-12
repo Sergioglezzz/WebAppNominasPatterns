@@ -1,4 +1,4 @@
-package com.model;
+package com.exceptions;
 
 public class DatosNoCorrectosException extends Exception {
 

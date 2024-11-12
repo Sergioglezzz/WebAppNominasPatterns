@@ -1,5 +1,7 @@
 package com.model;
 
+import com.exceptions.DatosNoCorrectosException;
+
 public class Empleado extends Persona {
 
 	private int categoria;
